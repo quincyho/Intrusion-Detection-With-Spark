@@ -1,6 +1,6 @@
 # Intrusion-Detection-With-Spark
 
-In this notebook, I replicated the Spark-Chi-SVM model proposed in the paper "Intrusion detection model using machine learning algorithm on Big Data environment" (S. M. Othman, F. M. Ba-Alwi, N. T. Alsohybe, and A. Y. Al-Hashida, 2018).
+In this notebook, I created an intrusion detection model with Spark based on the Spark-Chi-SVM model proposed in the paper "Intrusion detection model using machine learning algorithm on Big Data environment" (S. M. Othman, F. M. Ba-Alwi, N. T. Alsohybe, and A. Y. Al-Hashida, 2018).
 
 The goal of this project is to detect network intrusions into a computer from unauthorized users. The KDD99 data set (10% subset) is used. The data set consists of 494,021 instances with 41 attributes and a class attribute. The two classes are a 'normal' connection and an 'attack'.
 
